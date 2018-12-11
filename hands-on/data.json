@@ -1,0 +1,19 @@
+{
+    "petstore": {
+        "tickets": {
+            "bob": [
+                {
+                    "assignee": "alice"
+                },
+                {
+                    "assignee": "karen"
+                }
+            ],
+            "janet": [
+                {
+                    "assignee": "karen"
+                }
+            ]
+        }
+    }
+}

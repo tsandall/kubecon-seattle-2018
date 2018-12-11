@@ -1,0 +1,10 @@
+{
+    "method": "GET",
+    "path": [
+        "accounts",
+        "bob"
+    ],
+    "subject": {
+        "user": "bob"
+    }
+}
